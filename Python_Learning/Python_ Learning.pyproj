@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>8f3add4e-fd5b-485b-bac8-1f042a6bf47a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>TurtleClass.py</StartupFile>
+    <StartupFile>Profanity_test.py.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -28,6 +28,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="New_Website_Creation.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Profanity_test.py.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Take Break.py">
