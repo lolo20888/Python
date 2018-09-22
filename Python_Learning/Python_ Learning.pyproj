@@ -24,6 +24,9 @@
     <Compile Include="Change.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Find _R.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Take Break.py">
       <SubType>Code</SubType>
     </Compile>
