@@ -48,6 +48,9 @@
     <Compile Include="New_Website_Creation.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="parent.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Profanity_test.py.py">
       <SubType>Code</SubType>
     </Compile>
