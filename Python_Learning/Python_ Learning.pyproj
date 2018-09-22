@@ -42,6 +42,9 @@
     <Compile Include="media.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="mindstorms.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="New_Website_Creation.py">
       <SubType>Code</SubType>
     </Compile>
