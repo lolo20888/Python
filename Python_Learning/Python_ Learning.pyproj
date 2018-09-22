@@ -30,6 +30,9 @@
     <Compile Include="Change_Letter.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Computer.py.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Find _R.py">
       <SubType>Code</SubType>
     </Compile>
