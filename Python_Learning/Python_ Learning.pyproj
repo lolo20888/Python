@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>8f3add4e-fd5b-485b-bac8-1f042a6bf47a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Change.py</StartupFile>
+    <StartupFile>TurtleClass.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Take Break.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TurtleClass.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
