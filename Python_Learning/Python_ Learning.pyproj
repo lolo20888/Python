@@ -33,6 +33,9 @@
     <Compile Include="Profanity_test.py.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Replace capital with small letter.py.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Take Break.py">
       <SubType>Code</SubType>
     </Compile>
