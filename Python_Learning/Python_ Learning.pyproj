@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>8f3add4e-fd5b-485b-bac8-1f042a6bf47a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Python_Learning.py</StartupFile>
+    <StartupFile>Change.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Python_Learning.py" />
+    <Compile Include="Change.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Take Break.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
