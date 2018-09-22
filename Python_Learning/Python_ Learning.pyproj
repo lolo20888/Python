@@ -21,7 +21,13 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="abulute.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Change.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Change_Letter.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Find _R.py">
