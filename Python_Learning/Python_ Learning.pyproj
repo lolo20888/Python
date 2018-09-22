@@ -36,6 +36,9 @@
     <Compile Include="Find _R.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="fresh_tomatoes.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="New_Website_Creation.py">
       <SubType>Code</SubType>
     </Compile>
