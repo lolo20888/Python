@@ -45,6 +45,9 @@
     <Compile Include="mindstorms.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="module1.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="New_Website_Creation.py">
       <SubType>Code</SubType>
     </Compile>

@@ -1,3 +1,5 @@
+#this app is for finding the abusive words in a document 
+
 import urllib
 def read_text():
     qutes = open("C:\movie_quotes.txt")
